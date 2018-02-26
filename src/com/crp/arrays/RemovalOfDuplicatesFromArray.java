@@ -1,5 +1,9 @@
 package com.crp.arrays;
 
+/**
+ * @author Rajendra
+ *
+ */
 public class RemovalOfDuplicatesFromArray {
 
 	public static void main(String[] args) {
