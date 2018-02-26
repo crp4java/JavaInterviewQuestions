@@ -7,7 +7,7 @@ package com.crp.arrays;
 public class RemovalOfDuplicatesFromArray {
 
 	public static void main(String[] args) {
-int[] array = { 1, 1, 2, 2, 3, 3, 5, 5, 8, 9, 9 };
+int[] array = { 1, 1, 2, 2, 3, 3, 5, 5, 8, 9, 9,5,2,4,5,6 };
 		
 
 		for (int i = 0; i<array.length; i++) {
