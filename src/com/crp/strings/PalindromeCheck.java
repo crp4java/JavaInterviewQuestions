@@ -6,8 +6,11 @@ import java.util.Scanner;
  * @author Rajendra
  *
  */
+
+
 public class PalindromeCheck {
 	@SuppressWarnings("resource")
+	//main menthod including all business login
 	public static void main(String args[]) {
 		String str, rev = "";
 		Scanner sc = new Scanner(System.in);
